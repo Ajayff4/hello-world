@@ -1,0 +1,14 @@
+// variable
+$main-color: pink;
+
+* {
+  color: cornflowerblue;
+}
+
+.main-heading {
+  color: $main-color;
+}
+
+.text-center {
+  text-align: center;
+}
